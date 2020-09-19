@@ -1,0 +1,28 @@
+{
+  "name": "next-on-netlify-catchall-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "next.config.js",
+  "dependencies": {
+    "next": "^9.5.3",
+    "next-on-netlify": "^2.4.0",
+    "react-dom": "^16.13.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "postbuild": "next-on-netlify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joostmeijles/next-on-netlify-catchall-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joostmeijles/next-on-netlify-catchall-bug/issues"
+  },
+  "homepage": "https://github.com/joostmeijles/next-on-netlify-catchall-bug#readme"
+}
